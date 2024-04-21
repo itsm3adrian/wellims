@@ -37,7 +37,7 @@
             </ul>
         </div>
         @endif
-        <h1>Request a Issue!</h1>
+        <h1>Request a Issue!!</h1>
         <form action="{{route('send.request')}}" id="requestIssue" method="POST">
             @csrf
             <div class="row">

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -69,3 +70,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # inventorymanagementwell
 IIT Bombay Inventory Management System for Well Labs  for EE
 >>>>>>> 84c9001bc1b37f986dc0bb2802a27695f98490db
+=======
+# wellims
+well lab inventory management system
+>>>>>>> 7ae388013a785772e95c00540baca3de7cc80e5e
